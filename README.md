@@ -1,4 +1,3 @@
-'''
 🚀 Data Engineer | Data Scientist | Nuclear Engineer
 Hi! I'm a data-driven professional with a strong background in data engineering, data science, and nuclear engineering. My work focuses on data analysis, predictive modeling, and visualization to drive impactful insights.
 
@@ -21,4 +20,4 @@ Version Control: Git, GitHub
 💡 Certifications: Microsoft Power BI Data Analyst | IBM Python for Data Science
 
 Let's connect! 🚀
-'''
+
